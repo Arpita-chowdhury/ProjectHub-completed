@@ -1,0 +1,21 @@
+.my-bg-style{
+    transition: transform .4s;
+}
+.my-bg-style:hover{
+    transform: scale(1.04);
+    
+}
+
+
+.my-button-style:hover{
+    font-weight: bolder;
+}
+
+.my-sidebar-style:hover{
+    color: #1f1f1f;
+    transition:0.3s; 
+    
+}
+
+
+
